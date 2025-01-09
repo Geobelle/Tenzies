@@ -73,4 +73,4 @@ function MainComp() {
     )
   }
   
-  export default Main
+  export default MainComp
