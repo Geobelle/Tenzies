@@ -49,6 +49,8 @@ body {
     font-weight: bold;
     cursor: pointer;
     font-family: Inter, sans-serif;
+    text-align: center;
+    color: #0B2434;
 }
 .held{
     
