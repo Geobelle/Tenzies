@@ -1,12 +1,11 @@
-import { useState } from 'react'
-import Main from './main'
+import MainComp from './MainComp'
 
 function App() {
 
 
   return (
     <>
-     <Main/>
+     <MainComp/>
     </>
   )
 }
