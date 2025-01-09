@@ -70,7 +70,7 @@ body {
     gap: .8em;
 }
 .reroll{
-    width: fit-content;
+    width: 100px;
     height: 35.84px;
     border-radius: 3.81px;
     background: #5035FF;
